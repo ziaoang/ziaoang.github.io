@@ -1,0 +1,29 @@
+body{
+	font-family: Georgia, Times, serif;
+}
+
+h1{
+	border-bottom: 3px double #aaaaaa;
+	color: #94070A;
+}
+
+h2{
+	border-bottom: 1px solid #aaaaaa;
+	color: #94070A;
+}
+
+a{
+	color: #527bbd;
+	text-decoration:none;
+}
+
+.contain{
+	margin: auto;
+	width: 992px;
+	padding-top:20px;
+	padding-bottom:30px;
+}
+
+.item{
+	margin-bottom: 30px;
+}
